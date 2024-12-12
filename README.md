@@ -1,1 +1,3 @@
 # wes-tech
+
+readme file
